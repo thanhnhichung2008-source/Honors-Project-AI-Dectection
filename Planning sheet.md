@@ -14,3 +14,9 @@
 # Individual 
 TC: Base intake, Web development, display 
 Austin: Meta data extraction and analysis, pixel type.  
+
+# week 7 
+TC: 
+1. Getting intake started
+Austin: 
+1. write 10 addition lines of codes 
